@@ -1,0 +1,19 @@
+// Modified Zed settings by Nriver
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+    "theme": "One Dark",
+    "ui_font_size": 16,
+    "buffer_font_size": 16,
+    "ui_font_family": "Noto Sans",
+    "buffer_font_family": "Noto Sans",
+    "terminal": {
+        "font_family": "Noto Sans",
+        "blinking": "on"
+    }
+}
