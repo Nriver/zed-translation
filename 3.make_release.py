@@ -34,6 +34,9 @@ if __name__ == '__main__':
     os.system(
         f'cp {BASE_FOLDER}zed-src/target/x86_64-unknown-linux-gnu/release/zed {TRANS_RELEASE_FOLDER}/'
     )
+    os.system(
+        f'zip {TRANS_RELEASE_FOLDER}/zed.zip {BASE_FOLDER}zed-src/target/x86_64-unknown-linux-gnu/release/zed'
+    )
 
     os.system(f'xdg-open {TRANS_RELEASE_FOLDER}')
 
