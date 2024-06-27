@@ -11,11 +11,19 @@ Chinese.
 
 Star this repository if you like it, thanks :)
 
+# 🔔 Statement
+
+The Zed Chinese localization version is currently only available through the following channels:
+
+GitHub repository: https://github.com/Nriver/zed-translation
+
+Archlinux AUR repository: https://aur.archlinux.org/packages/zed-cn-bin
+
 # 🦮 Table of Contents
 
 <!--ts-->
-
 * [🌏 Zed Translation](#-zed-translation)
+* [🔔 Statement](#-statement)
 * [🦮 Table of Contents](#-table-of-contents)
 * [📸 Screenshots](#-screenshots)
 * [📚 How to use](#-how-to-use)
@@ -24,7 +32,6 @@ Star this repository if you like it, thanks :)
 * [🛑 Limitations](#-limitations)
 * [💰 Donation](#-donation)
 * [🙏 Thanks](#-thanks)
-
 <!--te-->
 
 ---
